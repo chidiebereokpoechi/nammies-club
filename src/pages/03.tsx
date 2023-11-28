@@ -6,7 +6,7 @@ import { Container, LinkButton, Page } from '../components'
 import { motion } from 'framer-motion'
 
 const MESSAGES = [
-    'Happy birthday, Esinam! 🎉',
+    'Happy birthday Esinam! 🎉',
     'God bless you in your new age',
     'I pray that you receive all the blessings from life',
     'I appreciate you for being a great friend and a wonderful person',
